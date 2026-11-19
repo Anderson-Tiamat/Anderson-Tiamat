@@ -72,14 +72,7 @@ Me chamo Anderson Ribeiro, tenho 43 anos e moro em Fortaleza - CE. Atualmente cu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img
-    align="left"
-    alt="Vercel"
-    title="Vercel"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-/>
+
 <br/>
 <br/>
 
